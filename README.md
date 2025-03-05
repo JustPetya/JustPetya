@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @JustPetya
-- 👀 I’m a student in germany
-- 🌱 and participate in an IT class!
-- ❤️ I'm in love with HTB and try to learn Python, HTML, CSS, PHP and MySQL.
-- 💞️ If you're looking for someone who can halp with disign or some code,
-- 📫 you can reach me via: ItsPetya@pm.me
+Currently using NixOS with Hyprland on a PC with NVIDIA-GPU.
 
-<!---
-JustPetya/JustPetya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am just a little different, nothing big but even my teacher was saying I have a little to much time.<br>
+I'm wondering how he did notice.🤔 (I'm using Arch on a MacBook btw)
+
+- - -
+
+This GitHub is just a small freetime-project. I sometimes am bored or want to change something.<br>
+In both cases, if it's a project of enough bytes, I'll upload them and hope to get some people to also benefit from them.<br>
+I just hope to have time to spare to always push some moving programs.
